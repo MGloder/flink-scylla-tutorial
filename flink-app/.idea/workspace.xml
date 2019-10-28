@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2eaa772-291d-44dc-92af-f1b3457daa00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/scylla/movies/FilterMoviesStreamingJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scylla/movies/FilterMoviesStreamingJob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../mms/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../mms/docker-compose.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,13 +53,21 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="771084536">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-373">
+            <state relative-caret-position="1428">
               <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
             </state>
           </provider>
@@ -72,14 +76,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/scylla/movies/FilterMoviesStreamingJob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="97" column="33" lean-forward="true" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+            <state relative-caret-position="689">
+              <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2773#3072#0" expanded="true" />
-                <element signature="e#3071#3072#0" expanded="true" />
-                <element signature="e#3083#3294#0" expanded="true" />
-                <element signature="e#3293#3294#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,16 +87,14 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/output.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21434" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-cassandra_2.11/1.9.1/flink-connector-cassandra_2.11-1.9.1-sources.jar!/org/apache/flink/streaming/connectors/cassandra/ClusterBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -104,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-cassandra_2.11/1.9.1/flink-connector-cassandra_2.11-1.9.1.jar!/com/datastax/driver/core/Cluster.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="1810" column="42" lean-forward="true" selection-start-line="1810" selection-start-column="42" selection-end-line="1810" selection-end-column="42" />
+            <state relative-caret-position="34398">
+              <caret line="1810" column="42" selection-start-line="1810" selection-start-column="42" selection-end-line="1810" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -113,7 +111,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.9.1/flink-streaming-java_2.11-1.9.1-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
+            <state relative-caret-position="20832">
               <caret line="1122" selection-start-line="1122" selection-end-line="1122" />
             </state>
           </provider>
@@ -128,23 +126,23 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
       <map>
-        <entry key="$PROJECT_DIR$/../../../Scala/kafka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Scala/play-java-rest-api-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Scala/play-scala-rest-api-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Scala/tut01" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Stream/pravega-samples/flink-connector-examples" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../flink-connectors" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../flink-prometheus-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../pravega-samples" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/anyi/kafka" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/data-product-cms-interop/cdc-processor/snapshot-delta" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/data-product-cms-interop/cms-interop/member/publish" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/data-product-cms-interop/fhir" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/kafka" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/play-java-rest-api-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/tut01" value="PREVIEW" />
+        <entry key="$USER_HOME$/Stream/pravega-samples/flink-connector-examples" value="PREVIEW" />
+        <entry key="$USER_HOME$/flink-connectors" value="PREVIEW" />
+        <entry key="$USER_HOME$/flink-prometheus-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/pravega-samples" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -170,11 +168,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="1840" />
-    <option name="y" value="-538" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-240" />
+    <option name="y" value="-1193" />
     <option name="width" value="1920" />
-    <option name="height" value="1027" />
+    <option name="height" value="1177" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,6 +180,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -227,17 +226,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572229411851" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1572233760266" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -277,18 +275,18 @@
         <entry key="$USER_HOME$/Downloads/homework/Building a Recommendation Engine with Scala" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/homework/akka-quickstart-scala" value="PREVIEW" />
         <entry key="$USER_HOME$/Downloads/homework/akka-samples-persistence-scala" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Scala/play-scala-rest-api-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Scala/random-data-generator" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../Scala/repos/scala-faker" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../a" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../flink-project" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../../../peoplegen" value="PREVIEW" />
         <entry key="$USER_HOME$/Playground/spark-utils" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/data-generator" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/data-product-cms-interop/cms-interop/member/publish" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/data-product-cms-interop/data-generator" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/data-product-hello-world" value="PREVIEW" />
         <entry key="$USER_HOME$/Projects/dpp-hello-world" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/random-data-generator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Scala/repos/scala-faker" value="PREVIEW" />
+        <entry key="$USER_HOME$/a" value="PREVIEW" />
+        <entry key="$USER_HOME$/flink-project" value="PREVIEW" />
+        <entry key="$USER_HOME$/peoplegen" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -303,50 +301,51 @@
       <option name="presentableId" value="Default" />
       <updated>1571986143254</updated>
       <workItem from="1571986146351" duration="4385000" />
+      <workItem from="1572229731342" duration="1945000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4385000" />
+    <option name="totallyTimeSpent" value="6330000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1840" y="-538" width="1920" height="1027" extended-state="0" />
+    <frame x="-240" y="-1193" width="1920" height="1177" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Pylint" />
-      <window_info anchor="bottom" id="CheckStyle" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Run with VisualVM" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Debug with VisualVM" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292797" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32861805" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.46463546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32834426" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46463546" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Pylint" order="8" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005325" side_tool="true" weight="0.3292797" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="15" sideWeight="0.49946752" weight="0.3292797" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="16" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,14 +354,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-373">
-          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.9.1/flink-streaming-java_2.11-1.9.1.jar!/org/apache/flink/streaming/api/datastream/DataStream.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
@@ -370,56 +367,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.9.1/flink-streaming-java_2.11-1.9.1-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java">
+    <entry file="file://$PROJECT_DIR$/output.txt/2" />
+    <entry file="file://$PROJECT_DIR$/output.txt/1" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="1122" selection-start-line="1122" selection-end-line="1122" />
+        <state relative-caret-position="1428">
+          <caret line="68" column="28" selection-start-line="68" selection-start-column="28" selection-end-line="68" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt/2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1569">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt/1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1900">
-          <caret line="3" column="52" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-cassandra_2.11/1.9.1/flink-connector-cassandra_2.11-1.9.1-sources.jar!/org/apache/flink/streaming/connectors/cassandra/ClusterBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="37" column="32" lean-forward="true" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-cassandra_2.11/1.9.1/flink-connector-cassandra_2.11-1.9.1.jar!/com/datastax/driver/core/Cluster.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="1810" column="42" lean-forward="true" selection-start-line="1810" selection-start-column="42" selection-end-line="1810" selection-end-column="42" />
+        <state relative-caret-position="34398">
+          <caret line="1810" column="42" selection-start-line="1810" selection-start-column="42" selection-end-line="1810" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.9.1/flink-streaming-java_2.11-1.9.1-sources.jar!/org/apache/flink/streaming/api/datastream/DataStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21434" />
+        <state relative-caret-position="20832">
+          <caret line="1122" selection-start-line="1122" selection-end-line="1122" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/scylla/movies/FilterMoviesStreamingJob.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="97" column="33" lean-forward="true" selection-start-line="97" selection-start-column="33" selection-end-line="97" selection-end-column="33" />
+        <state relative-caret-position="689">
+          <caret line="72" column="42" lean-forward="true" selection-start-line="72" selection-start-column="42" selection-end-line="72" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2773#3072#0" expanded="true" />
-            <element signature="e#3071#3072#0" expanded="true" />
-            <element signature="e#3083#3294#0" expanded="true" />
-            <element signature="e#3293#3294#0" expanded="true" />
           </folding>
         </state>
       </provider>
